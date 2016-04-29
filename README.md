@@ -5,12 +5,12 @@ To use, you will need to copy this code once to make a device handler.  Then, fo
 
 To create a device handler (Do this one time only):
 
-Copy the .groovy code
-Go to https://graph.api.smartthings.com/  
-Go to My Device Handlers
-Create New -> From Code
-Paste the code
-Save. 
+*   Copy the .groovy code
+*   Go to https://graph.api.smartthings.com/  
+*   Go to My Device Handlers
+*   Create New -> From Code
+*   Paste the code
+*   Save. 
 
 To create a device instance and automate a routine:
 Go to https://graph.api.smartthings.com/  
