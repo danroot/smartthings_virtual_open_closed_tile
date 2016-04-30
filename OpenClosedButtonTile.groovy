@@ -1,5 +1,5 @@
 /**
- *  Copyright 2015 SmartThings
+ *  Copyright 2016 Daniel Root 
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -15,6 +15,8 @@
  *  Author: Daniel Root
  *
  *  Date: 2016-04-29
+ * 
+ * Based on "On/Off Button Tile" by SmartThings
  */
 metadata {
 	definition (name: "Open/Closed Button Tile", namespace: "danroot", author: "Daniel Root") {
