@@ -14,7 +14,7 @@ To create a device handler (Do this one time only):
 *   Paste the code
 *   Save. 
 
-To create a device instance and automate a routine:
+To create a device instance and automate a routine (Do this once for each routine you want to automate):
 *   Go to https://graph.api.smartthings.com/  
 *   Go to My Devices
 *   New Device
