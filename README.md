@@ -1,5 +1,5 @@
 # SmartThings Virtual Open/Closed Tile
-SmartThings device handler for virtual switches that double as open/closed sensors, which can be useful for automating Routines via Alexa.
+SmartThings device handler for virtual switches that double as open/closed sensors, which can be useful for automating Routines via Amazon Echo  (aka Alexa).
 
 SmartThings "Routines" can be used to automate various switches and modes.  Routines can be automated by time, motion sensor activity, and open/closed sensors, but not switches.   Amazon Echo (Alexa) can be used to turn on/off switches, but cannot currently trigger SmartThings routines directly.  There are a number of ways to solve this, but most involve multiple SmartApps or virtual devices.  For me, the "easiest thing that works" was to create a Virtual Switch that is _also_ an Open/Closed Sensor.  Adding this to "Things" means that we can now use Alexa to trigger the switch AND use the same switch's open/closed sensor to trigger a routine.
 
